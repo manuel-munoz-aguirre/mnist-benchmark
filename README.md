@@ -13,7 +13,7 @@ A complete run of the experiments together with results, comments and references
 
 A standalone script `run_experiments.py` is also provided to reproduce the experiments. A few dependencies are necessary and listed in `requirements.txt`. 
 
-```python3
+```
 usage: run_experiment.py [-h] [--device {gpu,cpu}] [--workers WORKERS]
                          [--bs BS] [--maxepochs MAX_EPOCHS]
                          [--patience PATIENCE] [--mindelta MIN_DELTA]
